@@ -3,13 +3,13 @@
 Future Construction rebuilt with Tailwind CSS.
 
 You can find the previous version here:
-[Future Construction – HTML/CSS/JS](https://github.com/Lurzen/future-construction)
+[Future Construction – HTML/CSS/JS](https://github.com/Lurzen/future-construction-v1)
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/Lurzen/future-construction-tailwind.git
-cd future-construction-tailwind
+git clone https://github.com/Lurzen/future-construction.git
+cd future-construction
 npm install
 npm run dev
 ```
