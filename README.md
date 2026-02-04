@@ -1,4 +1,4 @@
-# Future Construction – Tailwind CSS
+# Future Construction
 
 Future Construction rebuilt with Tailwind CSS.
 
